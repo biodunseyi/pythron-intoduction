@@ -43,7 +43,7 @@ root_answer = num7**0.5
 
 # print(type(root_answer), root_answer)
 
-# division, remainder, root division
+# division, remainder, root division    
 
 var1 = 5
 var2 = 2

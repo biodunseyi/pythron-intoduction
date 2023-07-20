@@ -8,4 +8,4 @@ Total = f"{Last_name.title()} {Given_name.capitalize()}"
 print(Total)
 
 Firstname = input("Firstname?")
-print(f"welcome {Firstname.capitalize()}")
+print(f"welcome {Firstname.capitalize()}...")

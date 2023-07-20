@@ -16,3 +16,12 @@ firstName = "ola"
 name3 = "oooo"
 # name-2 = "aaa" # not valid
 
+# count method
+word = "Do not outsmart your master"
+
+o_count = word.count("o", 2, 10)
+
+start_checker = word.startswith('D')
+end_checker = word.endswith('r')
+
+print(end_checker)
