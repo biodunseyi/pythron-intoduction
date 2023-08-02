@@ -10,5 +10,5 @@ rev_fruits = fruits[::-1]
 print(rev_fruits[::])
 print(fruits)
 
-a = []] # Empty
-print(bool(a)) 
+
+

@@ -25,3 +25,8 @@ start_checker = word.startswith('D')
 end_checker = word.endswith('r')
 
 print(end_checker)
+
+finder = word.find("zeus") # -1 represents values that are not in the target
+indexer = word.index("zeus") # raises an ValueError for values that are not in target
+print(finder)
+print(indexer)
