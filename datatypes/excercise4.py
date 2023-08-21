@@ -18,3 +18,6 @@ colors = ["red", "green", "blue", "yellow", "purple"]
 rev_colors = colors[::-1]
 print(rev_colors[::])
 print(colors)
+
+
+

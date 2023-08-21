@@ -55,3 +55,13 @@ groceries.pop(-1)
 groceries[:4] = [f"Garri Smoothie = {groceries[:4]}"]
 print(groceries)
 print(len(groceries))
+
+
+
+
+def find_max(numbers):
+    highest_number = max(numbers)
+    print(f'The highest number is {highest_number}')
+
+numbers = [10, 5, 20, 8, 15]
+find_max(numbers)

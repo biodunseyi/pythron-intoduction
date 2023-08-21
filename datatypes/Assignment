@@ -1,0 +1,7 @@
+items = ['fish','yam','salt','rice','garri']
+
+for i in items:
+  if i.lower() == 'salt':
+    break
+  else:
+    print(i)

@@ -29,3 +29,15 @@ def get_date_of_birth(date):
 date = int(input("Enter your birth year:"))
 
 #get_date_of_birth(date)
+
+
+
+# positional and keyword arguments in functions
+
+
+def get_exponent(number, exponent_val):
+  total = number ** exponent_val
+  print(f"The total for {number} raise power {exponent_val} is {total}")
+
+get_exponent(30, 2)
+

@@ -90,7 +90,7 @@ def find_max(numbers):
         print(f"The maximum value is: {max_value}")
 
 
-find_max(numbers)
+find_max(5)
 
 
 # Exercise 8:
