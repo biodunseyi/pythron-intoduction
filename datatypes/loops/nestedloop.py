@@ -18,7 +18,7 @@ for j in colours: # parent loop
 # using continue on for loop
 # for i in items:
 #   if i.lower() == 'salt':
-#     continue
+#     continue;l[]
 #   else:
 #     print(i)
 

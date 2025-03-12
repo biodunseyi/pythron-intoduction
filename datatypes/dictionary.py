@@ -67,3 +67,7 @@ student1_bio = {
 
 print(f'The name of the student is {student1_bio["name"]}')
 print(f'The student course is {student1_bio["course"]}')
+
+create a recursive version of the factorial function don't forget an exit condition!
+n! = {1, if n==0 or n==1
+      n * (n-1)!, if n > 1

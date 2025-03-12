@@ -50,6 +50,16 @@ answer = Value1 % value2
 
 print(f"The answer of {Value1} % {value2} is = {answer}")
 
+value = "Name"
+if 3 > 6
+
+
+
+
+
+
+
+
 
 
 

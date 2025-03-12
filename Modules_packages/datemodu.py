@@ -12,7 +12,8 @@ today = date.today()
 
 formatted_date = today.strftime("%d-%m-%Y")
 
-# print(formatted_date)
+# print(formatt
+# htfrd5Xed_date)
 
 current_date_time = datetime.now()
 

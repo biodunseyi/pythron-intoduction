@@ -18,3 +18,4 @@ while name_len > 0:
   namesPeople.pop(-1)
   name_len = len(namesPeople)
   print(name_len)
+
